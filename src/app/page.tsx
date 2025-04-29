@@ -16,7 +16,7 @@ import { useColorMode } from '@/components/ThemeRegistry';
 import { Row, Col, Card, Collapse } from 'antd';
 import { Grid, useTheme } from "@mui/material";
 import { motion } from "framer-motion";
-import { RightOutlined } from '@ant-design/icons';
+// import { RightOutlined } from '@ant-design/icons';
 import { ExpandMore } from '@mui/icons-material';
 
 const skills = ['Core Java', 'Spring Boot', 'React JS', 'MongoDB', 'MySQL', 'Git'];
