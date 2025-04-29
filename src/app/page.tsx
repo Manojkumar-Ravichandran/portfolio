@@ -11,9 +11,9 @@ import {
   TextField,
   IconButton,
 } from '@mui/material';
-import { GitHub, Email, DarkMode, LightMode, LinkedIn } from '@mui/icons-material';
+import { Email, DarkMode, LightMode, LinkedIn } from '@mui/icons-material';
 import { useColorMode } from '@/components/ThemeRegistry';
-import { Row, Col, Card, Collapse } from 'antd';
+import { Card, Collapse } from 'antd';
 import { Grid, useTheme } from "@mui/material";
 import { motion } from "framer-motion";
 // import { RightOutlined } from '@ant-design/icons';
